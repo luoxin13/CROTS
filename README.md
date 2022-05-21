@@ -118,7 +118,7 @@ python main.py \
 
 ## Acknowledge
 
-We thank the authors of AdaptSegNet<https://github.com/wasidennis/AdaptSegNet> for their SourceOnly model.
+We thank the authors of AdaptSegNet[https://github.com/wasidennis/AdaptSegNet] for their SourceOnly model.
 
-Part of our implementation also refers to ClassMix<https://github.com/WilhelmT/ClassMix> and CutMix<https://github.com/clovaai/CutMix-PyTorch>,
+Part of our implementation also refers to ClassMix[https://github.com/WilhelmT/ClassMix] and CutMix[https://github.com/clovaai/CutMix-PyTorch],
 and we extend our gratitude to the authors.

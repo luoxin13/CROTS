@@ -53,7 +53,7 @@ python generate_pseudo_labels.py
 python main.py \
 --module-name baseline \
 --mode train \
---restore-from ./pretrained/gta5_only.pth  \
+--restore-from ./pretrained/image_net_pretrained.pth  \
 --experiment-name none \
 --train-batch-size 4 \
 --lr 1.0e-4 \

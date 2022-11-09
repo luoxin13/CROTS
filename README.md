@@ -35,6 +35,7 @@ python ./utils/transfer_trainid.py \
 
 ```bash
 mkdir pretrained && cd pretrained
+cp /path/to/image_net_pretrained.pth ./image_net_pretrained.pth
 cp /path/to/gta5_only.pth ./gta5_only.pth
 cp /path/to/synthia_only.pth ./synthia_only.pth
 ```
